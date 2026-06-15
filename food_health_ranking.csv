@@ -1,0 +1,78 @@
+Food,Score Diff,N Transitions,p-value,RF Importance
+Garlic Cooked,0.1603,20.0,0.1648,0.0187
+Ice Cream Regular Flavors,0.154,16.0,0.1092,0.0004
+Carbonated Water Unsweetened,0.1399,22.0,0.1421,0.0017
+Rice Brown Cooked Fat,0.1363,15.0,0.1282,0.0
+Kale Cooked From Fresh,0.1331,15.0,0.2155,0.0021
+Wine Table White,0.1322,15.0,0.1976,0.0026
+Almond Butter,0.1212,18.0,0.2118,0.0021
+Orange Juice Canned Bottled,0.1159,20.0,0.0786,0.0008
+Nut Mixture With Dried,0.1084,16.0,0.3672,0.0018
+Oats Raw,0.1041,15.0,0.3107,0.0007
+Onions Mature Raw,0.1022,44.0,0.1817,0.001
+Cheese,0.0936,30.0,0.3292,0.0005
+Peanut Butter,0.0847,41.0,0.1944,0.0054
+Date,0.0821,16.0,0.2954,0.004
+Sugar White Granulated Or,0.0811,27.0,0.2674,0.0026
+Coffee Made From Ground,0.0736,188.0,0.1624,0.0652
+Walnuts,0.0712,17.0,0.0954,0.013
+Milk Cows Fluid 2,0.0709,33.0,0.5298,0.0059
+Avocado Raw,0.0697,43.0,0.2974,0.0054
+Chicken Breast Roasted Broiled,0.0684,27.0,0.1491,0.0123
+Wine Table Red,0.0646,22.0,0.6474,0.0014
+Apple Raw,0.0576,51.0,0.3529,0.001
+Bread Multigrain,0.0562,17.0,0.555,0.0001
+Peanuts Roasted Without Salt,0.0515,15.0,0.3887,0.0001
+Tangerine Raw,0.0502,37.0,0.7414,0.0014
+Tomatoes Raw,0.0495,74.0,0.2409,0.005
+White Potato Chips Regular,0.0454,21.0,0.4773,0.0068
+Endive Chicory Escarole Or,0.0439,22.0,0.6148,0.0021
+Blueberries Raw,0.0429,35.0,0.3941,0.0007
+Chocolate Sweet Or Dark,0.0424,67.0,0.4002,0.0072
+Almonds Unroasted,0.0349,20.0,0.831,0.0034
+Pepper Sweet Green Raw,0.0314,23.0,0.7186,0.0059
+Brussels Sprouts Cooked From,0.0295,15.0,0.9906,0.0028
+Tea Herbal,0.0292,39.0,0.6283,0.0018
+Mustard,0.0248,21.0,0.8979,0.0089
+Cheese Cheddar,0.0205,80.0,0.8941,0.0071
+Cheese Parmesan Hard,0.0174,21.0,0.7932,0.0003
+Milk Almond Ready To,0.0151,33.0,0.7835,0.0428
+Italian Dressing Made With,0.0145,29.0,0.6439,0.0011
+Butter Stick Salted,0.0143,26.0,0.9235,0.0027
+Tomato Catsup,0.0122,25.0,0.6982,0.0009
+Salty Snacks Corn Or,0.0045,38.0,0.8135,0.0029
+Water Bottled Unsweetened,0.0044,58.0,0.7221,0.0056
+Egg Whole Boiled Or,-0.0003,30.0,0.7613,0.0022
+Pumpkin Andor Squash Seeds,-0.0031,17.0,0.6247,0.0004
+Water Tap,-0.0039,262.0,0.7746,0.0478
+Egg Whole Fried With,-0.0071,28.0,0.909,0.007
+Banana Raw,-0.0078,82.0,0.8545,0.0116
+Egg Omelet Or Scrambled,-0.0087,15.0,0.4906,0.0063
+Lettuce Arugula Raw,-0.0099,21.0,0.9032,0.0
+Milk Cows Fluid Skim,-0.0101,25.0,0.5934,0.0174
+Lemon Juice Freshly Squeezed,-0.0115,22.0,0.9001,0.0002
+Carrots Raw,-0.0193,52.0,0.9638,0.0027
+Olive Oil,-0.0208,24.0,0.8249,0.0017
+Milk Cows Fluid Whole,-0.0236,38.0,0.8321,0.0174
+Spinach Raw,-0.0236,29.0,0.9824,0.0137
+Bagel,-0.0251,18.0,0.6305,0.0001
+Onions Mature Cooked Or,-0.0252,22.0,0.9765,0.0094
+Cucumber Raw,-0.0275,43.0,0.5423,0.0203
+Cucumber Pickles Dill,-0.035,16.0,0.8342,0.0004
+Cream Half And Half,-0.037,46.0,0.5156,0.0024
+Celery Raw,-0.0465,19.0,0.6358,0.0017
+Bread Whole Wheat Ns,-0.051,20.0,0.522,0.0074
+Rice White Cooked Fat,-0.053,23.0,0.3103,0.0011
+Guacamole,-0.0653,25.0,0.329,0.003
+Orange Raw,-0.069,33.0,0.4744,0.0002
+Mayonnaise Regular,-0.0699,37.0,0.3716,0.0076
+Beer,-0.0868,57.0,0.4195,0.0769
+Honey,-0.0924,30.0,0.1721,0.004
+Tea Leaf Unsweetened,-0.0955,30.0,0.3406,0.0081
+Lettuce Raw,-0.0957,37.0,0.1604,0.0312
+Salsa Red Commercially Prepared,-0.0972,58.0,0.1013,0.0065
+Milk,-0.108,15.0,0.2817,0.0002
+Mixed Salad Greens Raw,-0.1307,32.0,0.3395,0.0217
+Coffee Made From Powdered,-0.1311,15.0,0.1566,0.0005
+Strawberries Raw,-0.1635,17.0,0.5666,0.0147
+Cilantro Raw,-0.1676,18.0,0.1036,0.0036

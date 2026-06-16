@@ -1,5 +1,6 @@
-Task,Type,Model,Accuracy,F1-macro,AUC-ROC
-Food Group Classification (D1),10-class,Random Forest (n=400),0.9249,0.8400,0.9938
-Fermented vs Non-Fermented (D1),Binary,Random Forest (n=400),1.0000,1.0000,nan
-Gut Health Score Regression (D2),Regression,Random Forest (n=500),R²=-0.1105,MAE=0.3550,RMSE=0.4419
-Good vs Bad Gut Day (D2),Binary,Random Forest (n=500),0.4318  (CV: 0.4643±0.0519),0.4244  (CV: 0.4583±0.0549),0.3874  (CV: 0.4558±0.0482)
+Phase,Task,Best Algorithm,Key Metric,Note
+Model Comparison,Food Group (D1),LightGBM,F1-macro = 0.8947,10-class food classification from microbiome profile
+Model Comparison,Gut Health Regression (D2),Random Forest,R2 = -0.1770,Predicting gut response from diet
+Model Comparison,Good/Bad Gut Day (D2),LightGBM,AUC = 0.4815,Binary gut health day classification
+SHAP,Food Group Classifier,Random Forest,See beeswarm plots,Genus-level microbiome taxa drive predictions
+FDR,Food Ranking,Mann-Whitney + BH,0 sig. foods (q<0.10),Small N=32 limits statistical power
